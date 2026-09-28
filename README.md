@@ -14,7 +14,7 @@ Educational / authorised-testing use only.
 
 ## Install
 ```bash
-pip install wlkit           # from PyPI
+pip install wordlist-kit           # from PyPI
 # or from source:
 git clone https://github.com/kanishk-dadhich/wlkit && cd wlkit && pip install .
 ```

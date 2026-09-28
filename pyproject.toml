@@ -3,7 +3,7 @@ requires = ["setuptools>=61"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "wlkit"
+name = "wordlist-kit"
 version = "1.0.0"
 description = "Wordlist Kit — an all-in-one wordlist toolkit (crunch + CeWL + CUPP + rule templates) with recon, OSINT and attack-command assembly. For authorised security testing only."
 readme = "README.md"
