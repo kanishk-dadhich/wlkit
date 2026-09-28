@@ -1,7 +1,18 @@
 # wlkit — Wordlist Kit
 
-One CLI covering every technique from THM **Introduction to Wordlists**.
-Educational / authorised-testing use only.
+[![PyPI](https://img.shields.io/pypi/v/wordlist-kit?color=blue&label=pypi%20wordlist-kit)](https://pypi.org/project/wordlist-kit/)
+[![Python](https://img.shields.io/pypi/pyversions/wordlist-kit)](https://pypi.org/project/wordlist-kit/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![Downloads](https://img.shields.io/pypi/dm/wordlist-kit?color=orange)](https://pypi.org/project/wordlist-kit/)
+
+**One CLI that goes from a URL to a targeted wordlist to a ready-to-run attack.**
+Consolidates crunch, CeWL, CUPP, username-anarchy and hashcat/john-style rules —
+plus recon, OSINT, and gobuster/ffuf/hydra command assembly — into a single tool
+with an interactive menu. Educational / **authorised-testing use only**.
+
+```bash
+pip install wordlist-kit   # then just run:  wlkit
+```
 
 **Author:** Kanishk Dadhich
 · [GitHub](https://github.com/kanishk-dadhich)
