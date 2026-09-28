@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+
+# wlkit run artifacts (generated wordlists / OSINT output)
+passwords.txt
+usernames.txt
+osint_wordlist.txt
+subdomains.txt
+emails.txt
+ips.txt
+cupp.txt
+*.restore
+harv_*.json
+harv_*.xml
+_harvester_*
+_auto_*.txt
+_scrape_*.txt
+_profile.txt
+login_wordlist.txt
