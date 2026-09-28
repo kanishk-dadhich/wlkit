@@ -14,7 +14,7 @@ with an interactive menu. Educational / **authorised-testing use only**.
 pip install wordlist-kit   # then just run:  wlkit
 ```
 
-![wlkit demo](demo.gif)
+![wlkit menu](menu.png)
 
 **Author:** Kanishk Dadhich
 · [GitHub](https://github.com/kanishk-dadhich)
